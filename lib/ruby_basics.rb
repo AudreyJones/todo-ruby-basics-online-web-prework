@@ -19,11 +19,11 @@ def greeting(greeting,name)
 end
 
 def return_a_value
-  return
+  return phrase
 end
 
 def last_evaluated_value
-  return
+  return phrase
 end
 
 def pizza_party(pepperoni = "cheese")
