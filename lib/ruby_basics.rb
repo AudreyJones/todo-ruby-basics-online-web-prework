@@ -12,7 +12,9 @@ def argue(phrase)
 end
 
 def greeting(greeting,name)
-  return "${greeting}, #{name}!"
+  greeting = "Hi there,"
+  name = "Bobby"
+  return "${greeting}, ${name}!"
 
 end
 
